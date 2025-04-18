@@ -35,9 +35,9 @@ jobs:
       - name: Publish to Medium
         env:
           MEDIUM_TOKEN: ${{ secrets.MEDIUM_TOKEN }}
-          TO_EMAIL: ${{ secrets.TO_EMAIL }}
-          FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
-          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          TO_EMAIL = "beacleaner0@gmail.com"
+          FROM_EMAIL = "limon.working@gmail.com"
+          EMAIL_PASSWORD = "nidy qxuu jblb twoo"
         run: |
           cat > publish_script.py << 'EOL'
           import os
