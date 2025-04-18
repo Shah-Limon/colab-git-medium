@@ -2,18 +2,15 @@ name: Daily Medium Publishing
 
 on:
   schedule:
-    # Runs at 9:00 UTC every day
     - cron: '0 9 * * *'
-  # Optional: Allow manual triggering of the workflow
   workflow_dispatch:
 
 jobs:
   publish-to-medium:
     runs-on: ubuntu-latest
-    # Add explicit permissions to ensure the workflow can push changes
     permissions:
       contents: write
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -24,7 +21,7 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-          
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -34,99 +31,117 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
-          
+
       - name: Publish to Medium
         env:
           MEDIUM_TOKEN: ${{ secrets.MEDIUM_TOKEN }}
+          TO_EMAIL: ${{ secrets.TO_EMAIL }}
+          FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
         run: |
-          # Create publish directory if it doesn't exist
           mkdir -p publish
-          
-          # Get a list of all markdown files in articles directory
-          articles=$(find articles -type f -name "*.md")
-          
-          # Exit if no articles found
+          articles=$(find articles -type f -name "*.md" | head -n 3)
+
           if [ -z "$articles" ]; then
             echo "No articles found for publishing."
             exit 0
           fi
-          
-          # Process each article
+
+          logs=""
           for article in $articles; do
             echo "Processing $article"
-            
-            # Extract article filename
             filename=$(basename "$article")
-            
-            # Run Python script to publish to Medium
+
             python - <<EOF
           import os
           import requests
           import json
           import frontmatter
           import markdown2
-          from github import Github
+          import smtplib
+          from email.mime.text import MIMEText
+          from email.mime.multipart import MIMEMultipart
           import time
-          
-          # Setup Medium API
-          medium_token = os.environ['MEDIUM_TOKEN']
-          headers = {
-              'Authorization': f'Bearer {medium_token}',
-              'Content-Type': 'application/json',
-              'Accept': 'application/json'
-          }
-          
-          # Get user ID (needed for posting)
-          user_response = requests.get('https://api.medium.com/v1/me', headers=headers)
-          if user_response.status_code != 200:
-              print(f"Error getting Medium user: {user_response.text}")
-              exit(1)
-              
-          user_id = user_response.json()['data']['id']
-          
-          # Process the article
-          article_path = "$article"
-          with open(article_path, 'r', encoding='utf-8') as f:
-              post = frontmatter.load(f)
-          
-          # Extract frontmatter
-          title = post.get('title', 'Untitled Article')
-          tags = post.get('tags', [])
-          content = post.content
-          
-          # Convert markdown to HTML
-          html_content = markdown2.markdown(content)
-          
-          # Prepare the payload for Medium API
-          payload = {
-              'title': title,
-              'contentFormat': 'html',
-              'content': html_content,
-              'tags': tags,
-              'publishStatus': 'public'  # Can be 'public', 'draft', or 'unlisted'
-          }
-          
-          # Post to Medium
-          post_url = f'https://api.medium.com/v1/users/{user_id}/posts'
-          response = requests.post(post_url, headers=headers, data=json.dumps(payload))
-          
-          if response.status_code == 201:
-              print(f"Successfully published '{title}' to Medium!")
-              
-              # Move the file to publish folder
-              target_path = "$filename"
-              os.system(f'git mv "{article_path}" "publish/{target_path}"')
-              
-              # Commit and push changes
-              os.system('git add .')
-              os.system(f'git commit -m "Published \'{title}\' to Medium"')
-              os.system('git push')
-              
-              print(f"Moved {article_path} to publish/{target_path}")
-          else:
-              print(f"Failed to publish '{title}' to Medium. Error: {response.text}")
-          EOF
-            
-            # Add a small delay between API calls
+
+          logs = ""
+
+          def send_email(subject, body):
+              to_email = os.environ['TO_EMAIL']
+              from_email = os.environ['FROM_EMAIL']
+              password = os.environ['EMAIL_PASSWORD']
+
+              msg = MIMEMultipart()
+              msg['From'] = from_email
+              msg['To'] = to_email
+              msg['Subject'] = subject
+
+              msg.attach(MIMEText(body, 'plain'))
+
+              try:
+                  server = smtplib.SMTP('smtp.gmail.com', 587)
+                  server.starttls()
+                  server.login(from_email, password)
+                  server.send_message(msg)
+                  server.quit()
+              except Exception as e:
+                  print(f"Failed to send email: {e}")
+
+          try:
+              medium_token = os.environ['MEDIUM_TOKEN']
+              headers = {
+                  'Authorization': f'Bearer {medium_token}',
+                  'Content-Type': 'application/json',
+                  'Accept': 'application/json'
+              }
+
+              user_response = requests.get('https://api.medium.com/v1/me', headers=headers)
+              if user_response.status_code != 200:
+                  msg = f"Error getting Medium user: {user_response.text}"
+                  print(msg)
+                  logs += msg + "\\n"
+                  raise Exception(msg)
+
+              user_id = user_response.json()['data']['id']
+
+              article_path = "$article"
+              with open(article_path, 'r', encoding='utf-8') as f:
+                  post = frontmatter.load(f)
+
+              title = post.get('title', 'Untitled Article')
+              tags = post.get('tags', [])
+              content = post.content
+              html_content = markdown2.markdown(content)
+
+              payload = {
+                  'title': title,
+                  'contentFormat': 'html',
+                  'content': html_content,
+                  'tags': tags,
+                  'publishStatus': 'public'
+              }
+
+              post_url = f'https://api.medium.com/v1/users/{user_id}/posts'
+              response = requests.post(post_url, headers=headers, data=json.dumps(payload))
+
+              if response.status_code == 201:
+                  msg = f"✅ Successfully published: '{title}'"
+                  print(msg)
+                  logs += msg + "\\n"
+                  target_path = "$filename"
+                  os.system(f'git mv "{article_path}" "publish/{target_path}"')
+                  os.system('git add .')
+                  os.system(f'git commit -m "Published \'{title}\' to Medium"')
+                  os.system('git push')
+              else:
+                  msg = f"❌ Failed to publish '{title}'. Error: {response.text}"
+                  print(msg)
+                  logs += msg + "\\n"
+
+          except Exception as e:
+              logs += f"Exception occurred: {e}\\n"
+
+          send_email("Medium Publishing Log", logs)
+EOF
+
             sleep 3
           done
