@@ -1,5 +1,5 @@
 ---
-title: "**Is That Film Ruining Your View? A Guide to Cleaning Between Oven Glass (Frigidaire)**"
+title: "Is That Film Ruining Your View? A Guide to Cleaning Between Oven Glass"
 date: "2025-04-19"
 tags: ["Frigidaire oven door", "clean oven glass", "oven door cleaning", "between glass oven", "oven repair", "appliance cleaning", "oven maintenance"]
 subtitle: "Don't live with a blurry oven window! Learn how to safely disassemble and deep clean the glass panes on your Frigidaire oven for a sparkling clear view of your baking."

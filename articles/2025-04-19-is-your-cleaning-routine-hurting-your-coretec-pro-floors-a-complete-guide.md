@@ -1,5 +1,5 @@
 ---
-title: "**Is Your Cleaning Routine Hurting Your Coretec Pro Floors? A Complete Guide**"
+title: "Is Your Cleaning Routine Hurting Your Coretec Pro Floors? A Complete Guide"
 date: "2025-04-19"
 tags: ["Coretec Pro", "Coretec flooring", "LVP cleaning", "vinyl plank flooring", "floor cleaning", "luxury vinyl plank", "floor maintenance"]
 subtitle: "Protect your investment with the right cleaning methods for long-lasting beauty and durability."

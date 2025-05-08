@@ -1,5 +1,5 @@
 ---
-title: "**Is Your Cloth Recliner a Magnet for Messes? A Complete Cleaning Guide**"
+title: "Is Your Cloth Recliner a Magnet for Messes? A Complete Cleaning Guide"
 date: "2025-04-19"
 tags: ["cloth recliner", "clean cloth recliner", "recliner cleaning", "microfiber recliner", "fabric recliner", "upholstery cleaning"]
 subtitle: "From Spot Cleaning to Deep Cleans: Keeping Your Fabric Recliner Looking Its Best"

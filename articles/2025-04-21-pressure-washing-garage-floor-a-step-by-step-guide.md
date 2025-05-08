@@ -1,5 +1,5 @@
 ---
-title: "**Pressure Washing Garage Floor: A Step-by-Step Guide**"
+title: "Pressure Washing Garage Floor: A Step-by-Step Guide"
 date: "2025-04-21"
 tags: ["pressure washing garage floor", "garage floor cleaning", "pressure washer", "garage cleaning", "oil stain removal", "concrete floor cleaning", "garage maintenance"]
 subtitle: "Revitalize Your Concrete: Expert Tips for a Spotless Garage"

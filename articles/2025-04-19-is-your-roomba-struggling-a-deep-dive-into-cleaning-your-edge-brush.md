@@ -1,5 +1,5 @@
 ---
-title: "**Is Your Roomba Struggling? A Deep Dive into Cleaning Your Edge Brush**"
+title: "Is Your Roomba Struggling? A Deep Dive into Cleaning Your Edge Brush"
 date: "2025-04-19"
 tags: ["Roomba edge brush", "clean edge brush", "Roomba maintenance", "robot vacuum cleaning", "Roomba brush cleaning", "Roomba", "cleaning tips"]
 subtitle: "Keep your robot vacuum performing at its best with this comprehensive guide to Roomba edge brush maintenance."

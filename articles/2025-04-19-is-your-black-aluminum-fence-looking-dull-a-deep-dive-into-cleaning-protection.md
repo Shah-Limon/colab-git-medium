@@ -1,5 +1,5 @@
 ---
-title: "**Is Your Black Aluminum Fence Looking Dull? A Deep Dive into Cleaning & Protection**"
+title: "Is Your Black Aluminum Fence Looking Dull? A Deep Dive into Cleaning & Protection"
 date: "2025-04-19"
 tags: ["black aluminum fence", "cleaning aluminum fence", "aluminum fence cleaner", "fence cleaning", "outdoor cleaning", "rust removal", "mildew removal"]
 subtitle: "Restore your fence's beauty and prevent future damage with our expert guide to cleaning black aluminum."

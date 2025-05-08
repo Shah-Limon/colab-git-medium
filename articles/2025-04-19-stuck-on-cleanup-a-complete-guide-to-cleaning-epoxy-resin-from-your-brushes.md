@@ -1,5 +1,5 @@
 ---
-title: "**Stuck on Cleanup? A Complete Guide to Cleaning Epoxy Resin From Your Brushes**"
+title: "Stuck on Cleanup? A Complete Guide to Cleaning Epoxy Resin From Your Brushes"
 date: "2025-04-19"
 tags: ["epoxy resin", "clean epoxy", "epoxy cleanup", "resin brush cleaner", "how to clean epoxy", "cleaning epoxy brushes", "resin removal"]
 subtitle: "Don't throw away those brushes! Learn the best methods for removing epoxy resin, whether wet or cured, and keep your tools in top condition."

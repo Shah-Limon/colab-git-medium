@@ -1,5 +1,5 @@
 ---
-title: "**Is Your Ethan Allen Looking Its Best? A Complete Guide to Cleaning & Care**"
+title: "Is Your Ethan Allen Looking Its Best? A Complete Guide to Cleaning & Care"
 date: "2025-04-19"
 tags: ["Ethan Allen furniture", "cleaning Ethan Allen", "wood furniture care", "upholstery cleaning", "leather furniture care", "furniture stain removal", "furniture maintenance"]
 subtitle: "Protect your investment and maintain the beauty of your Ethan Allen furniture with these expert cleaning and maintenance tips."

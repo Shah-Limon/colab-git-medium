@@ -1,5 +1,5 @@
 ---
-title: "**Is BBQ Grease Ruining Your Concrete? A Deep Dive into Cleaning & Prevention**"
+title: "Is BBQ Grease Ruining Your Concrete? A Deep Dive into Cleaning & Prevention"
 date: "2025-04-19"
 tags: ["BBQ grease", "concrete cleaner", "grease stain removal", "concrete cleaning", "degreaser", "outdoor cleaning", "patio cleaning"]
 subtitle: "From quick fixes to stubborn stains, learn how to effectively remove BBQ grease and keep your concrete looking its best."

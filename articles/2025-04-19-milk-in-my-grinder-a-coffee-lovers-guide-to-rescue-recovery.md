@@ -1,5 +1,5 @@
 ---
-title: "**Milk in My Grinder?! A Coffee Lover's Guide to Rescue & Recovery**"
+title: "Milk in My Grinder?! A Coffee Lover's Guide to Rescue & Recovery"
 date: "2025-04-19"
 tags: ["coffee grinder", "clean coffee grinder", "milk in grinder", "grinder cleaning", "burr grinder", "blade grinder", "coffee equipment", "coffee maintenance", "cleaning coffee equipment"]
 subtitle: "Don't panic! Learn how to thoroughly clean your coffee grinder after a milky mishap and protect your brew."

@@ -1,5 +1,5 @@
 ---
-title: "**Is Your Cleaning Routine Hurting Your Fiberglass Door? A Guide to Safe & Effective Cleaning**"
+title: "Is Your Cleaning Routine Hurting Your Fiberglass Door? A Guide to Safe & Effective Cleaning"
 date: "2025-04-19"
 tags: ["fiberglass doors", "cleaning fiberglass doors", "fiberglass door cleaning", "door maintenance", "exterior doors", "cleaning solutions", "mildew removal"]
 subtitle: "Protect your investment and keep your exterior doors looking their best with these expert cleaning tips."

@@ -1,5 +1,5 @@
 ---
-title: "**Are Your Cloth Bar Stools Dirty? A Complete Guide to Cleaning & Care**"
+title: "Are Your Cloth Bar Stools Dirty? A Complete Guide to Cleaning & Care"
 date: "2025-04-19"
 tags: ["cloth bar stools", "cleaning cloth bar stools", "fabric bar stools", "bar stool cleaning", "upholstery cleaning", "stain removal", "microfiber cleaning"]
 subtitle: "From Spot Cleaning to Deep Cleaning, Keep Your Fabric Bar Stools Looking Their Best"

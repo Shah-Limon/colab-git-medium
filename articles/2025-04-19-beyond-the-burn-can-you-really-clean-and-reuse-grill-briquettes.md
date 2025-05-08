@@ -1,5 +1,5 @@
 ---
-title: "**Beyond the Burn: Can You Really Clean and Reuse Grill Briquettes?**"
+title: "Beyond the Burn: Can You Really Clean and Reuse Grill Briquettes?"
 date: "2025-04-19"
 tags: ["grill briquettes", "clean grill briquettes", "cleaning briquettes", "charcoal grill", "grill cleaning", "briquette cleaning", "charcoal"]
 subtitle: "Extend the life of your charcoal, save money, and grill smarter with our guide to cleaning grill briquettes."

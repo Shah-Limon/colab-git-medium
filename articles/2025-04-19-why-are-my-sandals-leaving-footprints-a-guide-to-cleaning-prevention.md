@@ -1,5 +1,5 @@
 ---
-title: "**Why Are My Sandals Leaving Footprints? A Guide to Cleaning & Prevention**"
+title: "Why Are My Sandals Leaving Footprints? A Guide to Cleaning & Prevention"
 date: "2025-04-19"
 tags: ["clean sandals", "foot marks", "sandal cleaning", "shoe cleaning", "leather sandals", "rubber sandals", "fabric sandals", "baking soda", "magic eraser"]
 subtitle: "Get rid of those unsightly marks and keep your favorite sandals looking fresh all season long."

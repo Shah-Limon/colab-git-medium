@@ -1,5 +1,5 @@
 ---
-title: "**Is Your Cleaning Routine Hurting Your Cherry Wood Cabinets? A Guide to Gentle Care**"
+title: "Is Your Cleaning Routine Hurting Your Cherry Wood Cabinets? A Guide to Gentle Care"
 date: "2025-04-19"
 tags: ["cherry wood cabinets", "cleaning cherry wood", "wood cabinet care", "kitchen cabinets", "wood cleaner", "cabinet finish", "furniture polish"]
 subtitle: "Protect your investment and maintain the rich beauty of your cherry wood cabinets with these expert cleaning and care tips."

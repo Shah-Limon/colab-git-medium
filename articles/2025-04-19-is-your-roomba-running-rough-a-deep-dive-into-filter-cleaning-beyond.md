@@ -1,5 +1,5 @@
 ---
-title: "**Is Your Roomba Running Rough? A Deep Dive into Filter Cleaning & Beyond**"
+title: "Is Your Roomba Running Rough? A Deep Dive into Filter Cleaning & Beyond"
 date: "2025-04-19"
 tags: ["Roomba filter", "Roomba cleaning", "robot vacuum filter", "Roomba maintenance", "clean Roomba", "Roomba care", "filter replacement"]
 subtitle: "Keep your robot vacuum performing at its best with this comprehensive guide to Roomba filter maintenance and troubleshooting."

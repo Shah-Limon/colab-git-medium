@@ -1,5 +1,5 @@
 ---
-title: "**Gym Floor Cleaning: A Guide to Hygiene & Longevity**"
+title: "Gym Floor Cleaning: A Guide to Hygiene & Longevity"
 date: "2025-04-21"
 tags: ["Gym floors", "gym floor cleaning", "gym floor maintenance", "wood gym floors", "rubber gym floors", "floor cleaner", "gym cleaning routine"]
 subtitle: "Protect Your Investment & Members with the Right Gym Floor Maintenance Routine"

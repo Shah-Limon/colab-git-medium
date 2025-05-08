@@ -1,5 +1,5 @@
 ---
-title: "**Gunite Pool Stains Got You Down? A Deep Dive into Cleaning & Prevention**"
+title: "Gunite Pool Stains Got You Down? A Deep Dive into Cleaning & Prevention"
 date: "2025-04-19"
 tags: ["Gunite pool stains", "pool stains", "cleaning gunite", "stain removal", "pool maintenance", "iron stains", "algae stains", "gunite pools"]
 subtitle: "Don't let unsightly stains ruin your summer! Learn how to identify, remove, and prevent stains on your gunite pool."

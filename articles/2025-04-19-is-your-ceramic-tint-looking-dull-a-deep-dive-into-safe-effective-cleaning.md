@@ -1,5 +1,5 @@
 ---
-title: "**Is Your Ceramic Tint Looking Dull? A Deep Dive into Safe & Effective Cleaning**"
+title: "Is Your Ceramic Tint Looking Dull? A Deep Dive into Safe & Effective Cleaning"
 date: "2025-04-19"
 tags: ["Ceramic window tint", "window tint cleaning", "ceramic tint cleaner", "car window tint", "window tint", "auto tint", "tint care"]
 subtitle: "Protect your investment and maintain peak performance with our guide to cleaning ceramic window tint the right way."

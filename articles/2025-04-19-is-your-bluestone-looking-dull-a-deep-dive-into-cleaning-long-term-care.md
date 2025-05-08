@@ -1,5 +1,5 @@
 ---
-title: "**Is Your Bluestone Looking Dull? A Deep Dive into Cleaning & Long-Term Care**"
+title: "Is Your Bluestone Looking Dull? A Deep Dive into Cleaning & Long-Term Care"
 date: "2025-04-19"
 tags: ["bluestone pavers", "cleaning bluestone", "bluestone maintenance", "patio cleaning", "outdoor pavers", "stone cleaning", "efflorescence removal"]
 subtitle: "Revitalize your outdoor living space with expert advice on cleaning, maintaining, and protecting beautiful bluestone pavers."

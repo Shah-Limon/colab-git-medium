@@ -1,5 +1,5 @@
 ---
-title: "**Are Your Garage Door Windows Dirty? A Complete Guide to Sparkling Clarity**"
+title: "Are Your Garage Door Windows Dirty? A Complete Guide to Sparkling Clarity"
 date: "2025-04-19"
 tags: ["Garage door windows", "cleaning garage door windows", "window cleaning", "garage cleaning", "home maintenance", "cleaning solutions", "mildew removal"]
 subtitle: "Don't overlook this often-forgotten area! Learn how to effectively clean garage door windows, prevent damage, and boost your curb appeal."

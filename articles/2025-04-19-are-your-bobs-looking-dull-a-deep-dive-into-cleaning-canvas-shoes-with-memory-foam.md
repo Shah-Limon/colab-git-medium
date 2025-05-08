@@ -1,5 +1,5 @@
 ---
-title: "**Are Your Bob's Looking Dull? A Deep Dive into Cleaning Canvas Shoes with Memory Foam**"
+title: "Are Your Bob's Looking Dull? A Deep Dive into Cleaning Canvas Shoes with Memory Foam"
 date: "2025-04-19"
 tags: ["Bob's shoes", "cleaning Bob's", "memory foam", "canvas shoes", "shoe cleaning", "stain removal", "shoe care", "sneaker cleaning"]
 subtitle: "Keep your comfy Bob's fresh and clean with our expert guide to stain removal, washing, and long-lasting care."

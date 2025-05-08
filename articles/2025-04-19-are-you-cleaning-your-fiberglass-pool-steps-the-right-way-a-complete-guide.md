@@ -1,5 +1,5 @@
 ---
-title: "**Are You Cleaning Your Fiberglass Pool Steps the Right Way? A Complete Guide**"
+title: "Are You Cleaning Your Fiberglass Pool Steps the Right Way? A Complete Guide"
 date: "2025-04-19"
 tags: ["fiberglass pool steps", "cleaning fiberglass", "pool steps", "pool cleaning", "algae removal", "fiberglass repair", "pool maintenance"]
 subtitle: "Protect your investment and keep your pool sparkling with these expert tips for cleaning and maintaining fiberglass pool steps."

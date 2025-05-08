@@ -1,5 +1,5 @@
 ---
-title: "**Is Your Cleaning Routine Ruining Your Ceramic Tint? A Guide to Safe Window Care**"
+title: "Is Your Cleaning Routine Ruining Your Ceramic Tint? A Guide to Safe Window Care"
 date: "2025-04-19"
 tags: ["Ceramic tint", "window tint", "window cleaning", "car detailing", "auto tint", "tint care", "ceramic coating"]
 subtitle: "Protect your investment and maintain crystal-clear visibility with the right techniques for cleaning ceramic tinted windows."

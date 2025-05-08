@@ -1,5 +1,5 @@
 ---
-title: "**Cosplay Cleaning SOS: Can You *Really* Wash That Costume?**"
+title: "Cosplay Cleaning SOS: Can You *Really* Wash That Costume?"
 date: "2025-04-19"
 tags: ["Cosplay cleaning", "cosplay costume care", "costume cleaning", "foam cleaning", "fabric cleaning", "prop cleaning", "cosplay maintenance"]
 subtitle: "A practical guide to cleaning and caring for your cosplay, protecting your investment and ensuring a stunning look for every con."

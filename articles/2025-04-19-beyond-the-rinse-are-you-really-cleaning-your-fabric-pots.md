@@ -1,5 +1,5 @@
 ---
-title: "**Beyond the Rinse: Are You Really Cleaning Your Fabric Pots?**"
+title: "Beyond the Rinse: Are You Really Cleaning Your Fabric Pots?"
 date: "2025-04-19"
 tags: ["Fabric Pots", "Cleaning Fabric Pots", "Reuse Fabric Pots", "Garden Pots", "Plant Pots", "Disinfecting Pots", "Gardening"]
 subtitle: "Extend the life of your garden containers and boost plant health with a deep-cleaning routine."

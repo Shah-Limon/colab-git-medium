@@ -1,5 +1,5 @@
 ---
-title: "**Silicone Mold SOS: Can You Really Rescue It From Melted Crayon?**"
+title: "Silicone Mold SOS: Can You Really Rescue It From Melted Crayon?"
 date: "2025-04-19"
 tags: ["crayon", "silicone mold", "cleaning", "remove crayon", "silicone", "wax", "cleaning silicone molds", "crafting", "DIY", "mold cleaning"]
 subtitle: "A practical guide to safely removing crayon wax from your silicone molds, protecting your investment, and getting back to crafting."

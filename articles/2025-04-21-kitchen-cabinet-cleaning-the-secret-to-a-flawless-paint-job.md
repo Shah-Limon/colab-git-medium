@@ -1,5 +1,5 @@
 ---
-title: "**Kitchen Cabinet Cleaning: The Secret to a Flawless Paint Job**"
+title: "Kitchen Cabinet Cleaning: The Secret to a Flawless Paint Job"
 date: "2025-04-21"
 tags: ["kitchen cabinets", "painting kitchen cabinets", "cleaning kitchen cabinets", "cabinet cleaning", "kitchen remodel", "cabinet preparation"]
 subtitle: "Don't skip this crucial step! Learn how to properly clean kitchen cabinets before painting for a professional, long-lasting finish."

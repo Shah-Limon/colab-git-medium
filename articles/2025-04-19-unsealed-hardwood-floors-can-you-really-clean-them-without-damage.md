@@ -1,5 +1,5 @@
 ---
-title: "**Unsealed Hardwood Floors: Can You Really Clean Them Without Damage?**"
+title: "Unsealed Hardwood Floors: Can You Really Clean Them Without Damage?"
 date: "2025-04-19"
 tags: ["unsealed hardwood floors", "cleaning hardwood floors", "hardwood floor cleaning", "wood floor care", "unsealed wood floors", "hardwood floor cleaner", "wood floor maintenance"]
 subtitle: "A homeowner's guide to safely cleaning and maintaining beautiful, unsealed wood floors."
